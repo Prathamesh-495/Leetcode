@@ -11,28 +11,32 @@
  */
 class Solution {
 public:
-    vector<int>v;
-    int i=0;
+
+    TreeNode* first;
+    TreeNode* prev;
+    TreeNode* last;
+    TreeNode* middle;
+
     void inorder(TreeNode* root){
         if(!root) return;
         inorder(root->left);
-        v.push_back(root->val);
+        if(prev!=NULL && (root->val < prev->val)){
+            if(first==NULL){
+                first=prev;
+                middle = root;
+            }else{
+                last = root;
+            }
+        }
+        prev = root;
         inorder(root->right);
     }
 
-    void check(TreeNode* root){
-        if(!root) return;
-        check(root->left);
-        if(v[i]!=root->val){
-            swap(root->val,v[i]);
-        }
-        i++;
-        check(root->right);
-    }
     void recoverTree(TreeNode* root) {
+        first = middle = last = NULL;
+        prev = new TreeNode(INT_MIN);
         inorder(root);
-        sort(v.begin(),v.end());
-        check(root);
-
+        if(first && last) swap(first->val,last->val);
+        else if(first && middle) swap(first->val,middle->val);
     }
 };
