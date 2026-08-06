@@ -19,21 +19,13 @@ public:
         int drow[] = {-1,0,1,0};
         int dcol[] = {0,1,0,-1};
         vector<vector<int>> vis(n,vector<int>(m,0));
-        for(int j=0;j<m;j++){
-            if(!vis[0][j] && board[0][j]=='O'){
-                dfs(0,j,vis,board,drow,dcol,n,m);
-            }
-            if(!vis[n-1][j] && board[n-1][j]=='O'){
-                dfs(n-1,j,vis,board,drow,dcol,n,m);
-            }
-        }
-
         for(int i=0;i<n;i++){
-            if(!vis[i][0] && board[i][0]=='O'){
-                dfs(i,0,vis,board,drow,dcol,n,m);
-            }
-            if(!vis[i][m-1] && board[i][m-1]=='O'){
-                dfs(i,m-1,vis,board,drow,dcol,n,m);
+            for(int j=0;j<m;j++){
+                if(i==0||j==0||i==n-1||j==m-1){
+                    if(board[i][j]=='O'){
+                        dfs(i,j,vis,board,drow,dcol,n,m);
+                    }
+                }
             }
         }
 
