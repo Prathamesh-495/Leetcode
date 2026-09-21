@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathamesh-495/Leetcode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Prathamesh-495/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathamesh-495/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Prathamesh-495/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Prathamesh-495/Leetcode/tree/master/0200-number-of-islands) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prathamesh-495/Leetcode/tree/master/0075-sort-colors) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prathamesh-495/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -201,4 +203,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prathamesh-495/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prathamesh-495/Leetcode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prathamesh-495/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prathamesh-495/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
