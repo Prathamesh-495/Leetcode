@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prathamesh-495/Leetcode/tree/master/0001-two-sum) |
 | [0130-surrounded-regions](https://github.com/Prathamesh-495/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Prathamesh-495/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Prathamesh-495/Leetcode/tree/master/0542-01-matrix) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prathamesh-495/Leetcode/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/Prathamesh-495/Leetcode/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prathamesh-495/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
