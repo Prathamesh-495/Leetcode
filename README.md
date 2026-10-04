@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prathamesh-495/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Prathamesh-495/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Prathamesh-495/Leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Prathamesh-495/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0542-01-matrix](https://github.com/Prathamesh-495/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Prathamesh-495/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Prathamesh-495/Leetcode/tree/master/0994-rotting-oranges) |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prathamesh-495/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Prathamesh-495/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
