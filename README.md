@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Prathamesh-495/Leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Prathamesh-495/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prathamesh-495/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Prathamesh-495/Leetcode/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prathamesh-495/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Prathamesh-495/Leetcode/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/Prathamesh-495/Leetcode/tree/master/0242-valid-anagram) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Prathamesh-495/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Prathamesh-495/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prathamesh-495/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Prathamesh-495/Leetcode/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
