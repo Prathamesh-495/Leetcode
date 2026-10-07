@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prathamesh-495/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Prathamesh-495/Leetcode/tree/master/0125-valid-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prathamesh-495/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prathamesh-495/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Breadth-First Search
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prathamesh-495/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Prathamesh-495/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Prathamesh-495/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Prathamesh-495/Leetcode/tree/master/0242-valid-anagram) |
 ## Bidirectional Search
