@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathamesh-495/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Prathamesh-495/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/Prathamesh-495/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Prathamesh-495/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Prathamesh-495/Leetcode/tree/master/0075-sort-colors) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Prathamesh-495/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0127-word-ladder](https://github.com/Prathamesh-495/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Prathamesh-495/Leetcode/tree/master/0242-valid-anagram) |
 ## Bidirectional Search
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prathamesh-495/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Prathamesh-495/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
