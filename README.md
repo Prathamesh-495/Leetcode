@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prathamesh-495/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Prathamesh-495/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Prathamesh-495/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Prathamesh-495/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Prathamesh-495/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Prathamesh-495/Leetcode/tree/master/0075-sort-colors) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathamesh-495/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Prathamesh-495/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Prathamesh-495/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Prathamesh-495/Leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Prathamesh-495/Leetcode/tree/master/0169-majority-element) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prathamesh-495/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Prathamesh-495/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Prathamesh-495/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Prathamesh-495/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Prathamesh-495/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathamesh-495/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Prathamesh-495/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Prathamesh-495/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prathamesh-495/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Prathamesh-495/Leetcode/tree/master/0169-majority-element) |
