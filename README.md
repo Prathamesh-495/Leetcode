@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prathamesh-495/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Prathamesh-495/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Prathamesh-495/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Prathamesh-495/Leetcode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/Prathamesh-495/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Prathamesh-495/Leetcode/tree/master/0056-merge-intervals) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prathamesh-495/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Prathamesh-495/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Prathamesh-495/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Prathamesh-495/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Prathamesh-495/Leetcode/tree/master/0125-valid-palindrome) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Prathamesh-495/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Prathamesh-495/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Prathamesh-495/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prathamesh-495/Leetcode/tree/master/0075-sort-colors) |
